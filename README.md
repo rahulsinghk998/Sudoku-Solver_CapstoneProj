@@ -1,4 +1,4 @@
-#### Capstone Project - Sudoku Solver 
+####[Capstone Project - Sudoku Solver] 
 
 ### Team Members
 * Rahul Kumar Singh
